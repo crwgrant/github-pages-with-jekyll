@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-date: YYYY-MM-DD
+date: 2018-11-08
 ---
 
 # First Post!
