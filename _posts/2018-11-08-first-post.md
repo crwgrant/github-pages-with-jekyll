@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "First Post"
+title: "First Post"
+date: YYYY-MM-DD
 ---
 
 # First Post!
